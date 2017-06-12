@@ -1,2 +1,2 @@
 # blogSystem
-system for blog uses node + express + react
+system for blog usesing node + express + react
